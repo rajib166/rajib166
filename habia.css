@@ -1,0 +1,20 @@
+body{
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Condensed:ital,wght@0,300;1,300&display=swap" rel="stylesheet"> 
+}
+h1{
+    font-size: 40px;
+}
+.name-higlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.half-width img{
+width: 100%;
+
+}
